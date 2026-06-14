@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { SUPPLEMENTS } from './data/supplements';
 import { useMlawi } from './hooks/useMlawi';
 import { useTheme } from './hooks/useTheme';

@@ -1,4 +1,4 @@
-import React, { memo } from 'react';
+import { memo } from 'react';
 import type { Order } from '../types';
 import { getSupplementById } from '../data/supplements';
 import { getPatteLabel } from '../utils/priceCalculator';

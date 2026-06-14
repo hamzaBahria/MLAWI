@@ -1,4 +1,4 @@
-import React, { memo, useState } from 'react';
+import { memo, useState } from 'react';
 import type { MlawiComposition } from '../types';
 import { getSupplementById } from '../data/supplements';
 import { getHistory, clearHistory } from '../utils/storage';

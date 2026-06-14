@@ -1,4 +1,4 @@
-import React, { memo } from 'react';
+import { memo } from 'react';
 import { isComboActive } from '../utils/priceCalculator';
 import type { SupplementSelection } from '../types';
 
